@@ -14,7 +14,7 @@ Estilização com CSS externo.
 
 ## 📌 Estrutura da Página
 ### ✅ Parte 1 – Cabeçalho com navegação
-Crie um <h1> com o nome do destino (ex: “Conheça a Ilha do Sol”)
+Crie um "<h1>" com o nome do destino (ex: “Conheça a Ilha do Sol”)
 Abaixo, crie um menu de navegação com os seguintes links:
 Sobre o lugar
 Como chegar
